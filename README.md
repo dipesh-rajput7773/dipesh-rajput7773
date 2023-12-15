@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from Jaipur <br><br>- 🔭 I’m working as frontend developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
